@@ -13,6 +13,7 @@ print(x[-5:])
 print(x[5:])
 
 # matriz 2D
+
 x = x.reshape(2, 5)
 print('x: \n', x)
 
