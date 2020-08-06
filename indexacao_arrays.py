@@ -2,7 +2,7 @@
 Arrays são acessados pelo seu índice que vai de 0 até n-1
 
 Índices positivos começam de 0 até n-1
-Índices negativos começam de trás para frente sendo o último elemento -1
+Índices negativos começam de trás para frente sendo o primeiro elemento -1
 """
 
 import numpy as np
