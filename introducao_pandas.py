@@ -21,3 +21,8 @@ print(df.head(head))
 
 tail = 2  # exibindo as n ultimas linhas
 print(df.tail(tail))
+
+print(df.dtypes)
+print(df.describe())  # estatísticas básicas de colunas numéricas
+print(df.info())  # dataframe info
+print(df.columns)  # colunas
